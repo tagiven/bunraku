@@ -1,0 +1,3 @@
+[submodule "modules/sensu"]
+	path = modules/sensu
+	url = git@github.com:tagiven/sensu-puppet.git
